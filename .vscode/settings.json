@@ -1,0 +1,4 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    "solidity.compileUsingLocalVersion": "c:\\Users\\DELL\\Documents\\Professional Portfolio\\ERC721-OpenZeppelin\\soljson-v0.8.0+commit.c7dfd78e.js"
+}
